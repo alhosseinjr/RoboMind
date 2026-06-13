@@ -2,7 +2,7 @@
 
 const QuestionEngine = (() => {
 
-  const GROQ_API_KEY = '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';
+  const GROQ_API_KEY = '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';
   const GROQ_MODEL   = 'llama-3.3-70b-versatile';
   const GROQ_URL     = 'https://api.groq.com/openai/v1/chat/completions';
 
